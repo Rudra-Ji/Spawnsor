@@ -20,7 +20,7 @@ const Hero = () => {
       </div>
       <div className="stateinfo">
           <p className='pointer'>|</p>
-          <p className='currentstatus'> UI/UX designing</p>
+          <p className='currentstatus'>Wireframing</p>
       </div>
       <div className="status">
         <div className="statusbar">
